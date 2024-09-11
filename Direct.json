@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com",
+        "weixinsxy.com",
+        "wxapp.tc.qq.com",
         "pterclub.com",
         "azusa.wiki",
         "ptchina.org",
